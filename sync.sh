@@ -1,5 +1,5 @@
 #!/bin/bash
-# Sync Workspace with GitHub
+# Sync AI Toolkit with GitHub
 
 echo "Pulling latest changes from GitHub..."
 git pull origin main
